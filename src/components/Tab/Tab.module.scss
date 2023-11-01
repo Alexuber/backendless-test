@@ -1,0 +1,21 @@
+li {
+  list-style: none;
+  padding: 8px 16px;
+  margin-right: 5px;
+  background-color: #6890ff;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: pointer;
+  text-decoration: none;
+  color: #fff;
+}
+
+li.active {
+  background-color: #3331bd;
+  color: #000;
+}
+
+li a {
+  color: #fff;
+  text-decoration: none;
+}
